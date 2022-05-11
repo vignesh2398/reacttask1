@@ -1,0 +1,69 @@
+.listcomp{
+  padding: 10px;
+  display: inline-block;
+  border-radius: 1rem;
+  margin: 5px;
+  margin-right: 160px;
+  margin-left: 5px;
+  background-color:rgb(255, 255, 255);
+  border: none;
+  text-align: center;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+  transition: all 0.2s;
+  text-align: justify;
+  margin-top: -.25rem;
+    margin-bottom: .25rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+}
+.outer{
+  background-color:rgb(214, 231, 245);
+margin: 10px;
+padding:10px;
+border:1px solid #ccc;
+justify-content: space-between;
+}
+
+  ul {
+    list-style: '✓';
+  }
+
+ .listcomp>h1{
+   text-align: center;
+ }
+ .line-3 {
+ 
+  height: 1px;
+  border: 0;
+  background: black;
+ }
+ .button1{
+  font-size: 80%;
+  border-radius: 5rem;
+  letter-spacing: .5rem;
+  
+  color: white;
+  padding: 1rem;
+  
+  background-color: rgb(103, 182, 236);
+  border-color:white;
+  
+  margin-left: 40px;
+  
+  
+ }
+ .period{
+  font-weight: normal; 
+ }
+ .head{
+  text-align: center;
+ }
+ .card-price{
+  text-align: center; 
+ }
+ .outer{
+  background-color:rgb(11, 121, 210);
+margin: 10px;
+padding:10px;
+border:1px solid #ccc;
+justify-content: space-between;
+}
