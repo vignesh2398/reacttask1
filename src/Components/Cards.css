@@ -67,3 +67,12 @@ padding:10px;
 border:1px solid #ccc;
 justify-content: space-between;
 }
+.listcomp:hover {
+  transform: scale(1.04);
+}
+.button1:active {
+  color: green;
+}
+.button1.link {
+  color: green;
+}

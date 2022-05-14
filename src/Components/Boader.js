@@ -1,5 +1,6 @@
 import React from 'react'
 import Cards from './Cards'
+import './Cards.css';
 
 export default function Boader() {
   return (
